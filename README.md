@@ -18,7 +18,7 @@ A RAG project for GUET_SAI based on [llma2-7B]():hugs:
   - [retrieval]()
   - [server]()
   - [tokenize]()
-  - [model format]()
+  - [model format](tutorials/modelformat.md)
 
 + Other Tools
 

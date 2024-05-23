@@ -93,6 +93,7 @@ python convert.py testmodels/llama2-7b/ --outfile testmodels/llama2-7b/llama2-7b
 # chat with bob
 ./main -m testmodels/llama2-7b/llama2-7b_res.bin -n 256 --repeat_penalty 1.0 --color -i -r "User:" -f prompts/chat-with-bob.txt
 
+
   -m FNAME, --model FNAME
                         model path (default: models/$filename with filename from --hf-file or --model-url if set, otherwise models/7B/ggml-model-f16.gguf)
 
