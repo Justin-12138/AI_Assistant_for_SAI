@@ -1,4 +1,4 @@
-# GUET_SAI_ZZ
+# GUET_SAI_Assistant
 
 An AI assistant project for GUET_SAI based on [llma3-8B](https://huggingface.co/meta-llama/Meta-Llama-3.1-8B):hugs:
 
