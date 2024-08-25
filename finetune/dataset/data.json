@@ -1,0 +1,17 @@
+[{
+  "instruction": "How many general courses do we need to study",
+  "input": "",
+  "output": "one point for economy,two points for art,2 points for inovation,in total five points we need,as for clearly courses you need to study,according to you courses combination"
+}, {
+  "instruction":"How much is tuition for SAI",
+  "input":"",
+  "output":"About 35k(rmb) for whole 4 years"
+}, {
+  "instruction": "Explain the URP project for SAI",
+  "input":"",
+  "output":"It is a project for undergarduate' research,initially,SAI only has a few graduates,so they launched this project for better undergraduate education."
+}, {
+  "instruction": "What is end to end?",
+  "input":"",
+  "output":"Generally speaking,end2end is that you get the thins from a model that you input "
+}]

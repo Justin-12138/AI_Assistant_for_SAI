@@ -1,24 +1,15 @@
 # GUET_SAI_ZZ
 
-A RAG project for GUET_SAI based on [llma2-7B]():hugs:
+An AI assistant project for GUET_SAI based on [llma3-8B](https://huggingface.co/meta-llama/Meta-Llama-3.1-8B):hugs:
 
 #### Base_tutorials
 
 + NLP_base
-
   - [Neural Networks]()
-
   + [transformers]()
 
 + llama.cpp
-
-  - [main]()
-  - [quantize]()
-  - [finetune]()
-  - [retrieval]()
-  - [server]()
-  - [tokenize]()
-  - [model format](tutorials/modelformat.md)
+  - [model format](tutorials/fileformat)
 
 + Other Tools
 
@@ -28,11 +19,6 @@ A RAG project for GUET_SAI based on [llma2-7B]():hugs:
 
 #### Installation&Dependency
 
-+ Windows11
-
-  ```latex
-  
-  ```
 
 + Linux
 
