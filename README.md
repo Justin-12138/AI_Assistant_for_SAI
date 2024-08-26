@@ -9,7 +9,7 @@ An AI assistant project for GUET_SAI based on [llma3-8B](https://huggingface.co/
   + [transformers]()
 
 + llama.cpp
-  - [model format](tutorials/fileformat)
+  - [model format]()
 
 + Other Tools
 
